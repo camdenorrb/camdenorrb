@@ -3,7 +3,8 @@
 - 📫 Discord: Mr.Midnight#6199
 
 ### Setup
-- Dual boot ArcoLinux and Gentoo
+- Laptop >:)
+- Dual boot [ArcoLinux](https://arcolinux.com/) and [Gentoo](https://www.gentoo.org/)
 - Intellij and other [Jetbrains tools](https://www.jetbrains.com/)
 
 <!--
