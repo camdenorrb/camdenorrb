@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=camdenorrb)
+
 ### Hi there 👋
 - 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang)
 - 📫 Discord: Mr.Midnight#6199
