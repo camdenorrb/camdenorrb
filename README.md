@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang)
-- 📫 Discord: Mr.Midnight#6199
+- 📫 Discord: [Mr.Midnight#6199](https://discord.com/users/170232582770917376)
 
 ### Setup
 - Laptop >:)
 - Dual boot [ArcoLinux](https://arcolinux.com/) and [Gentoo](https://www.gentoo.org/)
-- Intellij and other [Jetbrains tools](https://www.jetbrains.com/)
+- [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/)
 
 <!--
 **camdenorrb/camdenorrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
