@@ -5,7 +5,7 @@
 ### Setup
 - Laptop >:)
 - Dual boot [ArcoLinux](https://arcolinux.com/) and [Gentoo](https://www.gentoo.org/)
-- [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/)
+- [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/lp/toolbox/)
 
 <!--
 **camdenorrb/camdenorrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
