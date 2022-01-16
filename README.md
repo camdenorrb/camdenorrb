@@ -3,7 +3,7 @@
 - 📫 Discord: [Mr.Midnight#6199](https://discord.com/users/170232582770917376)
 
 ### Setup
-- Laptop running Arch linux with KDE
+- Laptop running Arch Linux with KDE
 - [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/lp/toolbox/)
 
 <!--
