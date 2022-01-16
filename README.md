@@ -3,8 +3,7 @@
 - 📫 Discord: [Mr.Midnight#6199](https://discord.com/users/170232582770917376)
 
 ### Setup
-- Laptop >:)
-- Dual boot [ArcoLinux](https://arcolinux.com/) and [Gentoo](https://www.gentoo.org/)
+- Laptop running Arch linux with KDE
 - [Intellij](https://www.jetbrains.com/idea/) and other [Jetbrains tools](https://www.jetbrains.com/lp/toolbox/)
 
 <!--
