@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [CrescentLang](https://github.com/camdenorrb/CrescentLang)
-- 📫 Discord: [Mr.Midnight#6199](https://discord.com/users/170232582770917376)
+- 📫 Discord: [Mr.Midnight#0001](https://discord.com/users/170232582770917376)
 
 ### Setup
 - Laptop running Arch Linux with KDE
